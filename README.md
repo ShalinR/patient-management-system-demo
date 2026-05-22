@@ -76,25 +76,25 @@ Full breakdown and rationale in [`docs/tech-stack.md`](docs/tech-stack.md).
 portfolio-clinic-management/
 ├── README.md                          <- you are here
 ├── docs/
-│   ├── kidney-transplant-module.md    <- ⭐ KT module deep-dive (primary work)
+│   ├── kidney-transplant-module.md    <- * KT module deep-dive (primary work)
 │   ├── architecture.md                <- system architecture & data flow
 │   ├── tech-stack.md                  <- detailed stack rationale
 │   ├── design-decisions.md            <- key engineering decisions + tradeoffs
 │   └── challenges-and-learnings.md
 ├── diagrams/
-│   ├── kidney-transplant-workflow.md  <- ⭐ KT pipeline + matching state machine
+│   ├── kidney-transplant-workflow.md  <- * KT pipeline + matching state machine
 │   ├── system-architecture.md         <- mermaid system diagram
 │   ├── auth-flow.md                   <- JWT login + refresh sequence
 │   └── role-access-matrix.md
 ├── code-samples/                       <- rewritten generalized illustrations
 │   ├── backend/
-│   │   ├── DonorMatchingService.java   <- ⭐ donor↔recipient assignment pattern
+│   │   ├── DonorMatchingService.java   <- * donor↔recipient assignment pattern
 │   │   ├── JwtTokenService.java
 │   │   ├── SecurityConfig.java
 │   │   ├── JwtAuthenticationFilter.java
 │   │   └── SamplePatientController.java
 │   └── frontend/
-│       ├── nestedFormReducer.ts        <- ⭐ dot-path form state engine
+│       ├── nestedFormReducer.ts        
 │       ├── AuthContext.tsx
 │       ├── ProtectedRoute.tsx
 │       └── PatientCard.tsx
