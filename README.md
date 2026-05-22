@@ -49,7 +49,6 @@ Highlights:
 Beyond the KT module I also worked on shared platform concerns:
 
 - JWT authentication and role-based access control (ADMIN / DOCTOR / NURSE).
-- An AES-GCM field-level encryption converter for sensitive identifiers at rest.
 - The typed REST/DTO contract pattern shared across modules.
 - Docker-based local orchestration for the team.
 
