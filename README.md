@@ -1,7 +1,7 @@
 # Patient Management System - Demo
 
-> A sanitized portfolio version of a full-stack hospital renal-unit management
-> system I built during my software engineering internship. This repository
+> A sanitized demo version of a full-stack hospital renal-unit management
+> system we buit. This repository
 > documents the architecture design decisions and representative (rewritten)
 > code samples - **with a focus on the Kidney Transplant module my primary
 > contribution.** No production code real patient data schema or
@@ -104,10 +104,6 @@ portfolio-clinic-management/
 
 ---
 
-## Why a Portfolio Version?
-
 The production codebase is the proprietary property of the deploying institution
 - it contains workflow logic schema and configuration that cannot be shared.
-This repository preserves what I want to discuss in interviews: the architecture
-I designed the patterns I applied and the lessons I took away without exposing
-anything proprietary.
+
