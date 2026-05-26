@@ -79,8 +79,7 @@ portfolio-clinic-management/
 │   ├── kidney-transplant-module.md    <- * KT module deep-dive (primary work)
 │   ├── architecture.md                <- system architecture & data flow
 │   ├── tech-stack.md                  <- detailed stack rationale
-│   ├── design-decisions.md            <- key engineering decisions + tradeoffs
-│   └── challenges-and-learnings.md
+│   └── design-decisions.md            <- key engineering decisions + tradeoffs
 ├── diagrams/
 │   ├── kidney-transplant-workflow.md  <- * KT pipeline + matching state machine
 │   ├── system-architecture.md         <- mermaid system diagram
